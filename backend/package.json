@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Vous trouverez ci-dessous un **plan d’action complet** pour la mise en place du **backend** de votre application (Node.js/Express, MongoDB, Swagger), comprenant toutes les grandes étapes, de la conception à la mise en production. L’idée est de fournir un guide détaillé et séquencé pour réussir chaque étape du développement.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
